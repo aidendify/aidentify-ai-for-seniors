@@ -1,0 +1,35 @@
+{
+  "slug": "ai-for-seniors",
+  "title": "Everyday AI for Seniors (Plain Helpers)",
+  "tagline": "AI is powerful \u2014 but most instructions are written for people who already get it. This pack is",
+  "created_at": "2026-08-14T20:14:35Z",
+  "specs": {
+    "thumbnail": {
+      "path": "/opt/data/aidentify/products/ai-for-seniors/gumroad-assets/thumbnail-600.png",
+      "size": [
+        600,
+        600
+      ],
+      "use": "Gumroad product thumbnail / icon"
+    },
+    "cover": {
+      "path": "/opt/data/aidentify/products/ai-for-seniors/gumroad-assets/cover-1280x720.png",
+      "size": [
+        1280,
+        720
+      ],
+      "use": "Gumroad product cover / banner (16:9)"
+    }
+  },
+  "public_urls": {
+    "cover": "https://raw.githubusercontent.com/aidendify/aidentify-ai-for-seniors/main/gumroad-assets/cover-1280x720.png",
+    "thumbnail": "https://raw.githubusercontent.com/aidendify/aidentify-ai-for-seniors/main/gumroad-assets/thumbnail-600.png"
+  },
+  "upload_notes": [
+    "Generate \u2192 git push gumroad-assets/ \u2192 API upload with public raw URLs",
+    "POST /products/:id/covers url=<cover>",
+    "POST /products/:id/thumbnail url=<thumb>",
+    "Fallback: Gumroad UI Cover + Thumbnail upload",
+    "Avoid # $ + & ; : % in filenames (Gumroad known issue)"
+  ]
+}
