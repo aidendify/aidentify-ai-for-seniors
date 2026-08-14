@@ -1,0 +1,16 @@
+# Example configuration for Everyday AI for Seniors
+# You usually do NOT need to edit this file to use the pack.
+# This just shows optional settings if your chat app supports them.
+# Copy this file to config.yaml if you want to change preferences.
+
+# Your name (used by the AI to speak to you personally)
+name: "Alex"
+
+# How simply you want answers. Options: "very simple" or "plain"
+style: "very simple"
+
+# Your chat app. Options: chatgpt | gemini | claude | other
+chat_app: "chatgpt"
+
+# Optional: turn on large text on your device for easier reading
+large_text: true

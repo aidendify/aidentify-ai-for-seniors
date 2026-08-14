@@ -1,0 +1,27 @@
+Demo — Everyday AI for Seniors
+
+Two real asks from the prompt cards, and the results a senior can expect.
+
+---
+ASK 1 (Card 2 — Draft a Letter)
+"Please write a polite, plain-English letter for me. It is for my landlord. I want to say my
+kitchen tap has been dripping for a week and nobody has fixed it, and I'd like it repaired soon."
+
+RESULT:
+Dear [Landlord],
+I am writing about the kitchen tap. It has been dripping for a week now. I would be grateful if
+it could be repaired soon. Thank you.
+Yours sincerely,
+[Your name]
+
+---
+ASK 2 (Card 8 — Explain Simply)
+"Please explain what 'interest rate' means as if I were 12 years old."
+
+RESULT:
+An interest rate is like a fee the bank charges for borrowing or keeping your money. If you put
+$100 in the bank and the rate is 2%, the bank gives you $2 extra for keeping your money there —
+like rent for using your money.
+
+---
+That's it. Open a card, paste the words, and ask like you'd ask a friend.
